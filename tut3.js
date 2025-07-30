@@ -36,3 +36,13 @@ var getName2 = () =>{
 var getName3 = function() {
     console.log("Hello, World!");
 }
+
+
+
+getName();
+// console.log(x) 
+var x =5  ;
+
+function getName() {
+    console.log("Hello, World!");
+}

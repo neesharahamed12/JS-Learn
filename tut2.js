@@ -1,4 +1,4 @@
-const { memo } = require("react");
+// const { memo } = require("react");
 
 var n = 2;
 function square(num) {
